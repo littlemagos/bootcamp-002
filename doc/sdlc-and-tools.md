@@ -1,1 +1,3 @@
-#Java con maven
+[ADR-0001] Migracion de aplicacion
+
+Strangler Fig reduce el riesgo de modernización porque permite reemplazar gradualmente el sistema legacy, entregar valor en incrementos y mantener una ruta de reversión, mientras que un Big Bang concentra el riesgo técnico, funcional y operativo en un único momento de migración.
