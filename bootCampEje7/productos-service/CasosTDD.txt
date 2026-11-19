@@ -1,0 +1,8 @@
+Caso TDD para Descuentos:
+
+*Calcular el descuento de un producto.
+*El precio no debe ser igual a 0.
+*El precio no debe ser null.
+*No aplica descuento a precio negativo.
+*Precio sin aplicacion de descuento.
+*Rechazar si hay un descuento que supere el 100%.
